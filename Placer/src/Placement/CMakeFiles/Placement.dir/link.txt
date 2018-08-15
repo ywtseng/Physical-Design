@@ -1,0 +1,2 @@
+/usr/bin/ar cr libPlacement.a  CMakeFiles/Placement.dir/Placement.cpp.o
+/usr/bin/ranlib libPlacement.a
